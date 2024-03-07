@@ -1,0 +1,415 @@
+{
+  "main": {
+    "id": "c3e06dd6236f992a",
+    "type": "split",
+    "children": [
+      {
+        "id": "27242aaad965f9ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9905117ac695d98c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Obsidian 5w 1h/who develops obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0a1ea193c090699",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Obsidian 5w 1h/use obsidian app.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7902300f3678df1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Obsidian 5w 1h/Who use obsidian application mostly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "562cdd85a504bd8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Obsidian 5w 1h/How to use Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15da51026c770616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Swot analysis of Obsidian/Strength of Obsidian app.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88516fe55d601cd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Swot analysis of Obsidian/Opportunities of Obsidian app.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8495eb4fc83f727",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Obsidian 5w 1h/use obsidian app.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aed19ecdb2bd3905",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scrum/Scrum 5w1h/What is scrum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a3d30653895d390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scrum/Scrum 5w1h/When do we use scrum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "493d6e5663b29427",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scrum/Scrum 5w1h/Where do we use scrum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff64ced4939b976e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scrum/Scrum 5w1h/Why do we use scrum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41550ccc146e5c28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scrum/Scrum 5w1h/Who can use scrum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "231d9aaba73bc6fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scrum/Scrum swot analysis/Strenth of scrum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a14080ff430141d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scrum/Scrum swot analysis/Weakness of scrum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1786db26fb23486b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scrum/Scrum swot analysis/Opportunities of scrum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e9efdf8c2576e1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Obsidian 5w 1h/use obsidian app.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b85fc24a21c79153",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c281615c7d860896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scrum/Scrum 5w1h/What is scrum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 17
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95690890a1a6ab98",
+    "type": "split",
+    "children": [
+      {
+        "id": "180e87947fbdba38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe71f6afa8dc76b0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "b9405706e01747a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "b92781ca79479a80",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ccb98a9d68875b65",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ee9213478ec0ffe6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d9deae4b631f3e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "987f973420463def",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Scrum/Scrum 5w1h/What is scrum.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c82c1e52bbece9d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Scrum/Scrum 5w1h/What is scrum.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ffac06102183e07",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "81c7f786db33dbb0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Scrum/Scrum 5w1h/What is scrum.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e31c2dd68a8fbef0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b6d55a3f3995c71",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "c281615c7d860896",
+  "lastOpenFiles": [
+    "Obsidian/Obsidian 5w 1h/use obsidian app.md",
+    "Obsidian/Obsidian 5w 1h/Who use obsidian application mostly.md",
+    "Obsidian/Obsidian 5w 1h/How to use Obsidian.md",
+    "Obsidian/Obsidian 5w 1h/obsidian app.md",
+    "Obsidian/Obsidian 5w 1h/who develops obsidian.md",
+    "Obsidian/Obsidian 5w 1h/When and where we use obsidian.md",
+    "Obsidian/Obsidian 5w 1h/What is obsidian.md",
+    "Obsidian/Swot analysis of Obsidian/Threat to Obsidian.md",
+    "Scrum/Scrum 5w1h/Who can use scrum.md",
+    "Scrum/Scrum 5w1h/Why do we use scrum.md",
+    "Scrum/Scrum 5w1h/What is scrum.md",
+    "Obsidian/Swot analysis of Obsidian/Opportunities of Obsidian app.md",
+    "Scrum/Scrum swot analysis/Threat to scrum.md",
+    "Obsidian/Swot analysis of Obsidian/Weakness of Obsidian app.md",
+    "opportunites of obsidian.md",
+    "Obsidian/Swot analysis of Obsidian/Strength of Obsidian app.md",
+    "Scrum/Scrum swot analysis/Opportunities of scrum.md",
+    "Scrum/Scrum swot analysis/Weakness of scrum.md",
+    "Scrum/Scrum swot analysis/Strenth of scrum.md",
+    "Scrum/Scrum 5w1h/Where do we use scrum.md",
+    "Scrum/Scrum 5w1h/When do we use scrum.md",
+    "Obsidian/Obsidian 5w 1h/What is obsidian 1.md",
+    "Untitled",
+    "Scrum",
+    "Obsidian",
+    "Scrum/Scrum swot analysis",
+    "Scrum/Scrum 5w1h",
+    "Scrum 5w1h and swot analysis",
+    "Obsidian/Swot analysis of Obsidian",
+    "Obsidian/notion.md",
+    "Reasearch analyst.md",
+    "Obsidian/What is Obsidian.md",
+    "When where we use obsidian.md",
+    "schoolboy-spying-writing-schoolgirls.jpg",
+    "Tools",
+    "Obsidian/istockphoto-508102062-1024x1024.jpg",
+    "Obsidian/Obsidian 5w 1h",
+    "Obsidian and scrum"
+  ]
+}
